@@ -1,0 +1,12 @@
+{
+    "name": "jp.codezine.simple_dialog",
+    "title": "Simple dialog sample",
+    "description": "ダイアログを表示するサンプルプラグインです",
+    "homepage": "https://github.com/deconcepter/brackets-dialog-sample",
+    "version": "0.0.1",
+    "author": "http://twitter.com/deconcepter",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.24.0"
+    }
+}
